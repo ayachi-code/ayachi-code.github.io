@@ -1,0 +1,89 @@
+
+#wbmc {
+    text-align: center;
+}
+
+
+.corner {
+    width: 380px;
+    height: 30px;
+    background-color: cornsilk;
+}
+
+.een {
+    width: 380px;
+    height: 30px;
+    background-color: silver;
+
+}
+
+.twee {
+    width: 380px;
+    height: 30px;
+    background-color: aquamarine;
+
+}
+
+
+.drie {
+    width: 380px;
+    height: 30px;
+    background-color: gray;
+
+}
+
+
+.vier{
+    width: 380px;
+    height: 30px;
+    background-color: lightgoldenrodyellow;
+
+}
+
+
+.vijf {
+    width: 380px;
+    height: 30px;
+    background-color: lightcyan;
+
+}
+
+
+.zes{
+    width: 380px;
+    height: 30px;
+    background-color: greenyellow;
+
+}
+
+.zeven {
+  width: 380px;
+  height: 30px;
+  background-color: darkred;
+}
+
+
+.acht {
+  width: 380px;
+  height: 30px;
+  background-color: darkblue;
+
+}
+
+a {
+    color: darkgoldenrod;
+}
+
+#hhh {
+    color: papayawhip;
+}
+
+
+
+.box {
+    width: 380px;
+    height: 200px;
+    background-color: antiquewhite;
+
+
+};

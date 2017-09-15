@@ -1,0 +1,58 @@
+.vaardigheden
+{
+  width: 600px;
+  height: 450px;
+  margin: 0 auto;
+}
+
+
+.skill_up
+{
+  background-color: gray;
+
+}
+
+.progressBar {
+  height: 30px;
+  background-color: rgb(77, 101, 141);
+  color: white;
+  text-align: center;
+
+}
+
+
+.progressBar2 {
+  height: 30px;
+  background-color: rgb(77, 101, 141);
+  color: white;
+  text-align: center;
+
+
+}
+
+
+.vertellen
+{
+  height: 300px;
+  width: 600px;
+  margin: 0 auto;
+
+}
+
+
+/* Vragen */
+
+.vraag1
+{
+  width: 40px;
+}
+
+.info
+{
+  background-color: #A9A9A9;
+  float: left;
+  clear: left;
+
+}
+
+
