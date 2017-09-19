@@ -1,8 +1,8 @@
-function progressBar(elem, finalWidth) {
+function progressBar(elem, einde) {
   var width = 1;
   var id = setInterval(frame, 10);
   function frame() {
-    if (width >= finalWidth) {
+    if (width >= einde) {
       clearInterval(id);
     } else {
       width++;
