@@ -18,3 +18,4 @@ progressBar(document.getElementById('myBar3'), 75);
 progressBar(document.getElementById('myBar4'), 55);
 progressBar(document.getElementById('myBar5'), 65);
 progressBar(document.getElementById('myBar6'), 60);
+progressBar(document.getElementById('myBar7'), 68)
