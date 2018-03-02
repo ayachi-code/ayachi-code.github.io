@@ -11,11 +11,12 @@ function progressBar(elem, einde) {
   }
 }
 
-progressBar(document.getElementById('myBar'), 80);
-progressBar(document.getElementById('myBar1'), 60);
-progressBar(document.getElementById('myBar2'), 75);
+progressBar(document.getElementById('myBar'), 90);
+progressBar(document.getElementById('myBar1'), 71);
+progressBar(document.getElementById('myBar2'), 82);
 progressBar(document.getElementById('myBar3'), 75);
-progressBar(document.getElementById('myBar4'), 55);
-progressBar(document.getElementById('myBar5'), 65);
+progressBar(document.getElementById('myBar4'), 70);
+progressBar(document.getElementById('myBar5'), 75);
 progressBar(document.getElementById('myBar6'), 60);
 progressBar(document.getElementById('myBar7'), 68)
+progressBar(document.getElementById('myBar8'), 74);
